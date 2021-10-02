@@ -24,6 +24,9 @@ Backend: https://github.com/jahedev/classmate-backend
 | [PassportJS](http://www.passportjs.org/) | [:notebook:](http://www.passportjs.org/docs/)                                    |
 
 <!-- SCREENSHOTS -->
+
+### Screenshots
+
 ![Homepage](https://i.imgur.com/rycVQJc.png)
 ![Login](https://i.imgur.com/s5uIdBH.png)
 ![Search](https://i.imgur.com/uTmiASQ.png)
