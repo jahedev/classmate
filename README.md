@@ -1,4 +1,5 @@
-<h1 align="center">CAPSTONE PROJECT: Class Mate</h1>
+<h1 align="center">Class Mate</h1>
+<h3 align="center">CUNY TTP Capstone Project</h1>
   
 <!-- IMPORTANT LINKS -->
 
