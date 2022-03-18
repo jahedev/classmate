@@ -3,13 +3,15 @@
   
 <!-- IMPORTANT LINKS -->
 
-Website Page: https://ttp-capstone-frontend-lima.netlify.app/
+**Info:** Signup using @bcmail.cuny.edu address, email verification not required.
 
-Demo Day Slides: https://docs.google.com/presentation/d/1316Tbpgok7nzHdrwkYb-l0fQHbOeDUixWKWjmqXTXnE/edit#slide=id.gba373ccc28_2_0
+**Website Page:** https://ttp-capstone-frontend-lima.netlify.app/
 
-App logic chart: https://drive.google.com/file/d/1P5M1tmLnZoFPNpwPREjQw4OD5xDe-7mN/view
+**Demo Day Slides:** https://docs.google.com/presentation/d/1316Tbpgok7nzHdrwkYb-l0fQHbOeDUixWKWjmqXTXnE/edit#slide=id.gba373ccc28_2_0
 
-Backend: https://github.com/jahedev/classmate-backend
+**App logic chart:** https://drive.google.com/file/d/1P5M1tmLnZoFPNpwPREjQw4OD5xDe-7mN/view
+
+**Backend:** https://github.com/jahedev/classmate-backend
 
 <!-- BUILT WITH -->
 
